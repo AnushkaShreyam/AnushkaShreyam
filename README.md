@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushkaShreyam
 - 👀 I’m interested in Coding and contributing in different domains (exploring).
-- 🌱 I’m currently learning C++ and Solidity.
-- 💞️ I’m looking to collaborate on Blockchain Development.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on software.
 - 📫 How to reach me - anushkas20@iiserb.ac.in
 
 
