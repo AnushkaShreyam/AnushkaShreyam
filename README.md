@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and contributing in different domains (exploring).
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on software.
-- 📫 How to reach me -anushkashreyam10@gmail.com
+- 📫 How to reach me -shreyamanushka@gmail.com
 
 
 <!---
