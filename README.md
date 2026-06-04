@@ -76,12 +76,6 @@ Welcome to my GitHub! I'm a **Data Scientist** and **Bioinformatician** bridging
 
 ---
 
-## 📊 GitHub Stats
-
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushkaShreyam&show_icons=true&theme=radical)
-
----
-
 ### 🧬 Building Open Science, One Contribution at a Time! 🚀
 
 <!---
